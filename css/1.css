@@ -2,11 +2,14 @@
 * @Author: Administrator
 * @Date:   2017-09-07 17:10:54
 * @Last Modified by:   Administrator
-* @Last Modified time: 2017-09-07 17:16:18
+* @Last Modified time: 2017-09-07 19:42:43
 */
 h1{
 	color:red;
 }
 h3{
 	color:blue;
+}
+div{
+	text-align:center;
 }
